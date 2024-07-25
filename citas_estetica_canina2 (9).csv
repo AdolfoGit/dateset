@@ -1,0 +1,1011 @@
+idCita,servicio,fecha,hora,duracion,precio,idCliente,estado_de_la_cita
+1,Limpieza dental,2023-07-04,16:00,45,80,29,Cancelada
+2,Baño para perros,2023-07-17,09:00,30,30,175,Cancelada
+3,Corte de pelo,2023-07-22,11:00,60,50,8,Completada
+4,Corte de uñas,2023-07-27,11:00,15,15,130,Cancelada
+5,Baño para perros,2023-07-12,16:00,30,30,218,Cancelada
+6,Spa,2023-07-03,13:00,60,230,147,Completada
+7,Corte de pelo,2023-07-01,16:00,60,50,108,Completada
+8,Spa,2023-07-15,10:00,60,230,188,Cancelada
+9,Limpieza dental,2023-07-02,09:00,45,80,27,Cancelada
+10,Tratamiento de sarna,2023-07-11,16:00,45,190,157,Cancelada
+11,Spa,2023-07-05,10:00,60,230,24,Cancelada
+12,Corte de uñas,2023-07-26,09:00,15,15,110,Completada
+13,Limpieza dental,2023-07-12,10:00,45,80,186,Cancelada
+14,Spa,2023-07-04,15:00,60,230,165,Completada
+15,Corte de pelo,2023-07-07,12:00,60,50,125,Completada
+16,Corte de uñas,2023-07-23,16:00,15,15,182,Completada
+17,Corte de uñas,2023-07-12,10:00,15,15,154,Completada
+18,Baño para perros,2023-07-23,10:00,30,30,19,Completada
+19,Limpieza dental,2023-07-02,16:00,45,80,113,Completada
+20,Spa,2023-07-08,13:00,60,230,155,Cancelada
+21,Spa,2023-07-26,14:00,60,230,187,Cancelada
+22,Spa,2023-07-23,15:00,60,230,216,Completada
+23,Limpieza dental,2023-07-21,09:00,45,80,15,Completada
+24,Corte de pelo,2023-07-05,11:00,60,50,166,Completada
+25,Spa,2023-07-09,16:00,60,230,144,Cancelada
+26,Spa,2023-07-02,11:00,60,230,83,Cancelada
+27,Corte de uñas,2023-07-27,16:00,15,15,121,Cancelada
+28,Corte de uñas,2023-07-22,14:00,15,15,187,Completada
+29,Limpieza dental,2023-07-07,16:00,45,80,140,Completada
+30,Corte de uñas,2023-07-21,13:00,15,15,181,Cancelada
+31,Corte de pelo,2023-07-15,15:00,60,50,167,Cancelada
+32,Limpieza dental,2023-07-21,09:00,45,80,153,Cancelada
+33,Baño para perros,2023-07-07,09:00,30,30,229,Cancelada
+34,Tratamiento de sarna,2023-07-20,12:00,45,190,202,Completada
+35,Corte de uñas,2023-07-28,14:00,15,15,66,Completada
+36,Spa,2023-07-27,09:00,60,230,229,Completada
+37,Corte de pelo,2023-07-20,11:00,60,50,106,Cancelada
+38,Spa,2023-07-15,09:00,60,230,221,Cancelada
+39,Spa,2023-07-13,11:00,60,230,214,Cancelada
+40,Corte de uñas,2023-07-01,14:00,15,15,196,Completada
+41,Spa,2023-07-13,10:00,60,230,75,Cancelada
+42,Corte de pelo,2023-07-01,15:00,60,50,88,Completada
+43,Spa,2023-07-06,10:00,60,230,43,Cancelada
+44,Spa,2023-07-22,09:00,60,230,84,Cancelada
+45,Limpieza dental,2023-07-15,15:00,45,80,59,Completada
+46,Corte de uñas,2023-07-21,15:00,15,15,116,Cancelada
+47,Limpieza dental,2023-07-10,10:00,45,80,130,Completada
+48,Limpieza dental,2023-07-02,09:00,45,80,155,Completada
+49,Limpieza dental,2023-07-23,10:00,45,80,50,Cancelada
+50,Corte de uñas,2023-07-08,10:00,15,15,205,Completada
+51,Corte de pelo,2023-07-16,16:00,60,50,36,Completada
+52,Spa,2023-07-09,12:00,60,230,216,Cancelada
+53,Corte de uñas,2023-07-29,11:00,15,15,176,Completada
+54,Baño para perros,2023-07-23,09:00,30,30,106,Cancelada
+55,Baño para perros,2023-07-27,12:00,30,30,77,Completada
+56,Baño para perros,2023-07-06,09:00,30,30,58,Cancelada
+57,Tratamiento de sarna,2023-07-12,15:00,45,190,6,Completada
+58,Baño para perros,2023-07-02,11:00,30,30,94,Completada
+59,Baño para perros,2023-07-29,12:00,30,30,132,Cancelada
+60,Tratamiento de sarna,2023-07-12,14:00,45,190,62,Completada
+61,Corte de pelo,2023-07-27,14:00,60,50,94,Cancelada
+62,Tratamiento de sarna,2023-07-22,10:00,45,190,173,Cancelada
+63,Corte de uñas,2023-07-17,14:00,15,15,125,Completada
+64,Corte de pelo,2023-07-16,11:00,60,50,178,Completada
+65,Corte de pelo,2023-07-12,16:00,60,50,25,Completada
+66,Spa,2023-07-13,12:00,60,230,85,Cancelada
+67,Corte de pelo,2023-07-16,09:00,60,50,39,Cancelada
+68,Baño para perros,2023-07-04,09:00,30,30,213,Completada
+69,Tratamiento de sarna,2023-07-12,11:00,45,190,133,Completada
+70,Spa,2023-07-17,12:00,60,230,151,Cancelada
+71,Spa,2023-07-21,14:00,60,230,192,Completada
+72,Spa,2023-07-03,12:00,60,230,184,Cancelada
+73,Corte de pelo,2023-07-24,11:00,60,50,136,Completada
+74,Corte de pelo,2023-07-15,10:00,60,50,39,Cancelada
+75,Corte de uñas,2023-07-09,16:00,15,15,118,Cancelada
+76,Spa,2023-07-18,10:00,60,230,106,Cancelada
+77,Limpieza dental,2023-07-08,11:00,45,80,97,Completada
+78,Baño para perros,2023-07-19,09:00,30,30,156,Completada
+79,Tratamiento de sarna,2023-07-15,15:00,45,190,132,Completada
+80,Tratamiento de sarna,2023-07-15,16:00,45,190,143,Cancelada
+81,Tratamiento de sarna,2023-07-25,16:00,45,190,5,Completada
+82,Limpieza dental,2023-07-16,14:00,45,80,179,Completada
+83,Corte de uñas,2023-07-08,13:00,15,15,217,Completada
+84,Corte de uñas,2023-07-06,09:00,15,15,52,Cancelada
+85,Limpieza dental,2023-07-27,09:00,45,80,125,Cancelada
+86,Spa,2023-07-23,15:00,60,230,156,Cancelada
+87,Baño para perros,2023-07-08,11:00,30,30,103,Cancelada
+88,Baño para perros,2023-07-19,09:00,30,30,72,Cancelada
+89,Baño para perros,2023-07-27,10:00,30,30,106,Completada
+90,Tratamiento de sarna,2023-07-15,13:00,45,190,75,Completada
+91,Spa,2023-07-14,11:00,60,230,3,Cancelada
+92,Corte de uñas,2023-07-21,10:00,15,15,186,Cancelada
+93,Baño para perros,2023-07-24,16:00,30,30,172,Cancelada
+94,Corte de pelo,2023-07-25,16:00,60,50,182,Completada
+95,Limpieza dental,2023-07-02,09:00,45,80,168,Cancelada
+96,Corte de uñas,2023-07-07,10:00,15,15,93,Cancelada
+97,Spa,2023-07-03,11:00,60,230,79,Cancelada
+98,Baño para perros,2023-07-14,11:00,30,30,79,Cancelada
+99,Baño para perros,2023-07-22,11:00,30,30,24,Completada
+100,Limpieza dental,2023-07-04,16:00,45,80,3,Completada
+101,Limpieza dental,2023-07-14,14:00,45,80,46,Completada
+102,Limpieza dental,2023-07-08,14:00,45,80,138,Completada
+103,Baño para perros,2023-07-17,13:00,30,30,215,Cancelada
+104,Baño para perros,2023-07-26,16:00,30,30,23,Completada
+105,Corte de uñas,2023-07-13,16:00,15,15,48,Completada
+106,Baño para perros,2023-07-22,15:00,30,30,163,Completada
+107,Corte de uñas,2023-07-23,14:00,15,15,72,Cancelada
+108,Corte de uñas,2023-07-29,14:00,15,15,47,Completada
+109,Corte de pelo,2023-07-09,15:00,60,50,125,Completada
+110,Corte de pelo,2023-07-18,13:00,60,50,111,Cancelada
+111,Limpieza dental,2023-07-07,12:00,45,80,214,Completada
+112,Corte de pelo,2023-07-16,10:00,60,50,46,Completada
+113,Corte de uñas,2023-07-24,15:00,15,15,9,Cancelada
+114,Spa,2023-07-28,12:00,60,230,107,Cancelada
+115,Limpieza dental,2023-07-29,16:00,45,80,8,Completada
+116,Limpieza dental,2023-07-06,15:00,45,80,188,Cancelada
+117,Corte de uñas,2023-07-05,10:00,15,15,54,Completada
+118,Corte de uñas,2023-07-03,12:00,15,15,138,Cancelada
+119,Tratamiento de sarna,2023-07-12,09:00,45,190,85,Completada
+120,Baño para perros,2023-07-23,15:00,30,30,114,Completada
+121,Limpieza dental,2023-07-20,10:00,45,80,117,Cancelada
+122,Limpieza dental,2023-07-27,10:00,45,80,217,Cancelada
+123,Corte de uñas,2023-07-02,11:00,15,15,85,Cancelada
+124,Tratamiento de sarna,2023-07-17,12:00,45,190,66,Completada
+125,Corte de uñas,2023-07-22,16:00,15,15,98,Completada
+126,Spa,2023-07-11,13:00,60,230,227,Completada
+127,Limpieza dental,2023-07-04,11:00,45,80,206,Cancelada
+128,Spa,2023-07-23,16:00,60,230,92,Completada
+129,Tratamiento de sarna,2023-07-22,10:00,45,190,215,Completada
+130,Corte de uñas,2023-07-03,12:00,15,15,151,Cancelada
+131,Spa,2023-07-03,16:00,60,230,79,Cancelada
+132,Tratamiento de sarna,2023-07-19,12:00,45,190,186,Completada
+133,Limpieza dental,2023-07-19,16:00,45,80,174,Cancelada
+134,Corte de pelo,2023-07-10,12:00,60,50,229,Completada
+135,Tratamiento de sarna,2023-07-08,15:00,45,190,193,Cancelada
+136,Limpieza dental,2023-07-08,10:00,45,80,168,Cancelada
+137,Corte de uñas,2023-07-03,09:00,15,15,206,Completada
+138,Limpieza dental,2023-07-23,09:00,45,80,183,Completada
+139,Corte de pelo,2023-07-07,12:00,60,50,83,Cancelada
+140,Limpieza dental,2023-07-14,15:00,45,80,29,Completada
+141,Corte de uñas,2023-07-09,10:00,15,15,50,Completada
+142,Corte de uñas,2023-07-24,14:00,15,15,2,Completada
+143,Spa,2023-07-26,11:00,60,230,51,Completada
+144,Corte de pelo,2023-07-15,16:00,60,50,90,Completada
+145,Spa,2023-07-23,15:00,60,230,214,Cancelada
+146,Corte de pelo,2023-07-23,14:00,60,50,80,Cancelada
+147,Corte de uñas,2023-07-18,13:00,15,15,103,Cancelada
+148,Baño para perros,2023-07-05,09:00,30,30,130,Completada
+149,Corte de uñas,2023-07-13,11:00,15,15,25,Completada
+150,Corte de pelo,2023-07-11,14:00,60,50,169,Cancelada
+151,Tratamiento de sarna,2023-07-03,13:00,45,190,102,Cancelada
+152,Limpieza dental,2023-07-16,16:00,45,80,212,Completada
+153,Corte de uñas,2023-07-21,10:00,15,15,77,Completada
+154,Tratamiento de sarna,2023-07-06,12:00,45,190,228,Completada
+155,Corte de uñas,2023-07-01,16:00,15,15,162,Completada
+156,Tratamiento de sarna,2023-07-24,12:00,45,190,53,Cancelada
+157,Tratamiento de sarna,2023-07-22,15:00,45,190,213,Cancelada
+158,Corte de pelo,2023-07-25,16:00,60,50,214,Completada
+159,Corte de pelo,2023-07-21,09:00,60,50,161,Cancelada
+160,Corte de pelo,2023-07-24,09:00,60,50,60,Completada
+161,Limpieza dental,2023-07-07,14:00,45,80,35,Completada
+162,Tratamiento de sarna,2023-07-19,09:00,45,190,145,Cancelada
+163,Baño para perros,2023-07-18,16:00,30,30,12,Cancelada
+164,Spa,2023-07-24,12:00,60,230,139,Completada
+165,Corte de pelo,2023-07-16,14:00,60,50,67,Cancelada
+166,Limpieza dental,2023-07-06,11:00,45,80,29,Completada
+167,Baño para perros,2023-07-09,14:00,30,30,106,Cancelada
+168,Corte de pelo,2023-07-01,13:00,60,50,75,Completada
+169,Limpieza dental,2023-07-13,12:00,45,80,36,Completada
+170,Spa,2023-07-01,12:00,60,230,154,Cancelada
+171,Spa,2023-07-14,09:00,60,230,38,Cancelada
+172,Spa,2023-07-02,13:00,60,230,51,Cancelada
+173,Limpieza dental,2023-07-27,10:00,45,80,64,Completada
+174,Limpieza dental,2023-07-29,16:00,45,80,34,Completada
+175,Corte de uñas,2023-07-12,09:00,15,15,124,Cancelada
+176,Corte de uñas,2023-07-24,11:00,15,15,2,Cancelada
+177,Limpieza dental,2023-07-15,11:00,45,80,135,Completada
+178,Corte de pelo,2023-07-27,15:00,60,50,102,Completada
+179,Corte de pelo,2023-07-11,15:00,60,50,18,Completada
+180,Corte de uñas,2023-07-21,10:00,15,15,224,Cancelada
+181,Spa,2023-07-09,12:00,60,230,33,Completada
+182,Limpieza dental,2023-07-26,12:00,45,80,113,Completada
+183,Corte de pelo,2023-07-23,12:00,60,50,107,Completada
+184,Tratamiento de sarna,2023-07-10,12:00,45,190,63,Cancelada
+185,Corte de uñas,2023-07-18,10:00,15,15,189,Completada
+186,Baño para perros,2023-07-02,14:00,30,30,126,Cancelada
+187,Baño para perros,2023-07-14,09:00,30,30,163,Completada
+188,Baño para perros,2023-07-18,13:00,30,30,76,Cancelada
+189,Baño para perros,2023-07-18,13:00,30,30,106,Cancelada
+190,Corte de uñas,2023-07-29,15:00,15,15,191,Completada
+191,Tratamiento de sarna,2023-07-19,11:00,45,190,196,Completada
+192,Limpieza dental,2023-07-29,11:00,45,80,3,Completada
+193,Limpieza dental,2023-07-08,16:00,45,80,135,Cancelada
+194,Corte de pelo,2023-07-15,16:00,60,50,38,Cancelada
+195,Corte de pelo,2023-07-09,11:00,60,50,71,Completada
+196,Corte de uñas,2023-07-17,10:00,15,15,132,Completada
+197,Spa,2023-07-21,14:00,60,230,65,Completada
+198,Baño para perros,2023-07-15,16:00,30,30,116,Completada
+199,Baño para perros,2023-07-18,16:00,30,30,184,Cancelada
+200,Corte de uñas,2023-07-04,13:00,15,15,41,Cancelada
+201,Corte de uñas,2023-07-15,14:00,15,15,148,Completada
+202,Corte de pelo,2023-07-10,10:00,60,50,153,Cancelada
+203,Baño para perros,2023-07-28,12:00,30,30,170,Completada
+204,Tratamiento de sarna,2023-07-08,15:00,45,190,77,Cancelada
+205,Tratamiento de sarna,2023-07-17,09:00,45,190,228,Completada
+206,Limpieza dental,2023-07-11,12:00,45,80,136,Cancelada
+207,Limpieza dental,2023-07-01,14:00,45,80,102,Completada
+208,Corte de pelo,2023-07-04,13:00,60,50,38,Completada
+209,Spa,2023-07-02,13:00,60,230,51,Completada
+210,Corte de uñas,2023-07-14,15:00,15,15,37,Completada
+211,Corte de pelo,2023-07-02,11:00,60,50,216,Cancelada
+212,Baño para perros,2023-07-01,14:00,30,30,50,Completada
+213,Spa,2023-07-16,12:00,60,230,18,Cancelada
+214,Spa,2023-07-10,11:00,60,230,137,Completada
+215,Baño para perros,2023-07-28,16:00,30,30,104,Cancelada
+216,Tratamiento de sarna,2023-07-22,11:00,45,190,124,Cancelada
+217,Baño para perros,2023-07-14,11:00,30,30,73,Completada
+218,Baño para perros,2023-07-29,12:00,30,30,178,Cancelada
+219,Limpieza dental,2023-07-29,12:00,45,80,75,Completada
+220,Corte de pelo,2023-07-19,11:00,60,50,108,Completada
+221,Tratamiento de sarna,2023-07-15,11:00,45,190,162,Cancelada
+222,Spa,2023-07-16,14:00,60,230,183,Cancelada
+223,Tratamiento de sarna,2023-07-24,14:00,45,190,7,Cancelada
+224,Spa,2023-07-01,09:00,60,230,64,Cancelada
+225,Baño para perros,2023-07-07,13:00,30,30,220,Cancelada
+226,Limpieza dental,2023-07-17,11:00,45,80,89,Cancelada
+227,Corte de pelo,2023-07-22,12:00,60,50,33,Cancelada
+228,Baño para perros,2023-07-12,16:00,30,30,15,Completada
+229,Corte de uñas,2023-07-15,15:00,15,15,7,Completada
+230,Corte de pelo,2023-07-19,09:00,60,50,70,Cancelada
+231,Limpieza dental,2023-07-07,09:00,45,80,37,Cancelada
+232,Corte de uñas,2023-07-28,11:00,15,15,184,Completada
+233,Corte de uñas,2023-07-10,10:00,15,15,80,Cancelada
+234,Baño para perros,2023-07-21,10:00,30,30,68,Completada
+235,Spa,2023-07-20,09:00,60,230,163,Completada
+236,Limpieza dental,2023-07-26,10:00,45,80,24,Cancelada
+237,Tratamiento de sarna,2023-07-01,16:00,45,190,84,Completada
+238,Baño para perros,2023-07-04,16:00,30,30,118,Cancelada
+239,Baño para perros,2023-07-01,10:00,30,30,215,Cancelada
+240,Corte de pelo,2023-07-25,09:00,60,50,105,Cancelada
+241,Corte de uñas,2023-07-13,11:00,15,15,154,Completada
+242,Tratamiento de sarna,2023-07-19,15:00,45,190,121,Cancelada
+243,Spa,2023-07-05,09:00,60,230,131,Cancelada
+244,Corte de pelo,2023-07-12,11:00,60,50,105,Cancelada
+245,Limpieza dental,2023-07-26,16:00,45,80,141,Completada
+246,Baño para perros,2023-07-15,10:00,30,30,147,Completada
+247,Corte de uñas,2023-07-01,13:00,15,15,112,Completada
+248,Tratamiento de sarna,2023-07-23,11:00,45,190,67,Completada
+249,Corte de uñas,2023-07-16,13:00,15,15,27,Cancelada
+250,Tratamiento de sarna,2023-07-18,14:00,45,190,191,Completada
+251,Baño para perros,2023-07-05,13:00,30,30,173,Completada
+252,Baño para perros,2023-07-26,10:00,30,30,36,Cancelada
+253,Spa,2023-07-25,16:00,60,230,166,Completada
+254,Tratamiento de sarna,2023-07-13,11:00,45,190,202,Completada
+255,Baño para perros,2023-07-04,09:00,30,30,199,Cancelada
+256,Limpieza dental,2023-07-04,16:00,45,80,159,Completada
+257,Baño para perros,2023-07-11,13:00,30,30,76,Cancelada
+258,Baño para perros,2023-07-20,10:00,30,30,133,Cancelada
+259,Spa,2023-07-01,11:00,60,230,107,Cancelada
+260,Tratamiento de sarna,2023-07-29,16:00,45,190,83,Cancelada
+261,Tratamiento de sarna,2023-07-16,13:00,45,190,31,Cancelada
+262,Baño para perros,2023-07-03,09:00,30,30,218,Cancelada
+263,Corte de pelo,2023-07-04,16:00,60,50,192,Cancelada
+264,Corte de uñas,2023-07-16,12:00,15,15,1,Completada
+265,Corte de pelo,2023-07-15,12:00,60,50,13,Cancelada
+266,Spa,2023-07-10,11:00,60,230,92,Completada
+267,Spa,2023-07-14,15:00,60,230,127,Completada
+268,Spa,2023-07-05,16:00,60,230,121,Cancelada
+269,Corte de pelo,2023-07-04,13:00,60,50,174,Completada
+270,Corte de pelo,2023-07-15,15:00,60,50,158,Completada
+271,Corte de uñas,2023-07-08,16:00,15,15,130,Completada
+272,Tratamiento de sarna,2023-07-25,09:00,45,190,48,Cancelada
+273,Corte de uñas,2023-07-06,16:00,15,15,151,Completada
+274,Limpieza dental,2023-07-06,15:00,45,80,7,Completada
+275,Tratamiento de sarna,2023-07-26,14:00,45,190,21,Completada
+276,Corte de pelo,2023-07-20,10:00,60,50,69,Completada
+277,Baño para perros,2023-07-05,10:00,30,30,7,Completada
+278,Tratamiento de sarna,2023-07-20,14:00,45,190,91,Cancelada
+279,Corte de uñas,2023-07-25,16:00,15,15,193,Completada
+280,Baño para perros,2023-07-20,13:00,30,30,110,Completada
+281,Corte de pelo,2023-07-08,16:00,60,50,22,Cancelada
+282,Baño para perros,2023-07-13,12:00,30,30,102,Cancelada
+283,Tratamiento de sarna,2023-07-25,10:00,45,190,83,Completada
+284,Baño para perros,2023-07-03,12:00,30,30,206,Cancelada
+285,Limpieza dental,2023-07-09,10:00,45,80,31,Cancelada
+286,Corte de pelo,2023-07-08,13:00,60,50,2,Completada
+287,Corte de uñas,2023-07-05,12:00,15,15,131,Cancelada
+288,Corte de pelo,2023-07-25,15:00,60,50,133,Completada
+289,Spa,2023-07-08,11:00,60,230,3,Cancelada
+290,Corte de pelo,2023-07-14,16:00,60,50,120,Cancelada
+291,Tratamiento de sarna,2023-07-29,10:00,45,190,187,Cancelada
+292,Corte de uñas,2023-07-28,11:00,15,15,221,Cancelada
+293,Corte de uñas,2023-07-23,13:00,15,15,179,Cancelada
+294,Limpieza dental,2023-07-24,09:00,45,80,48,Cancelada
+295,Tratamiento de sarna,2023-07-10,15:00,45,190,71,Completada
+296,Corte de pelo,2023-07-29,13:00,60,50,126,Cancelada
+297,Limpieza dental,2023-07-28,14:00,45,80,197,Completada
+298,Baño para perros,2023-07-03,13:00,30,30,138,Completada
+299,Tratamiento de sarna,2023-07-16,12:00,45,190,160,Completada
+300,Tratamiento de sarna,2023-07-06,09:00,45,190,97,Cancelada
+301,Corte de pelo,2023-07-14,13:00,60,50,221,Cancelada
+302,Limpieza dental,2023-07-08,16:00,45,80,221,Completada
+303,Corte de uñas,2023-07-26,16:00,15,15,109,Completada
+304,Tratamiento de sarna,2023-07-21,13:00,45,190,172,Completada
+305,Corte de uñas,2023-07-05,15:00,15,15,61,Cancelada
+306,Limpieza dental,2023-07-16,09:00,45,80,94,Cancelada
+307,Limpieza dental,2023-07-29,09:00,45,80,198,Cancelada
+308,Corte de uñas,2023-07-08,16:00,15,15,39,Cancelada
+309,Baño para perros,2023-07-06,11:00,30,30,211,Completada
+310,Tratamiento de sarna,2023-07-07,15:00,45,190,111,Completada
+311,Baño para perros,2023-07-06,14:00,30,30,129,Cancelada
+312,Corte de uñas,2023-07-15,12:00,15,15,124,Completada
+313,Tratamiento de sarna,2023-07-01,14:00,45,190,61,Cancelada
+314,Corte de uñas,2023-07-08,09:00,15,15,115,Completada
+315,Baño para perros,2023-07-24,14:00,30,30,19,Completada
+316,Tratamiento de sarna,2023-07-03,10:00,45,190,128,Cancelada
+317,Spa,2023-07-13,12:00,60,230,170,Cancelada
+318,Corte de uñas,2023-07-22,16:00,15,15,98,Cancelada
+319,Spa,2023-07-25,12:00,60,230,50,Cancelada
+320,Corte de uñas,2023-07-25,13:00,15,15,191,Completada
+321,Corte de pelo,2023-07-10,11:00,60,50,105,Completada
+322,Spa,2023-07-03,16:00,60,230,15,Completada
+323,Spa,2023-07-19,16:00,60,230,174,Completada
+324,Corte de pelo,2023-07-02,15:00,60,50,21,Completada
+325,Corte de uñas,2023-07-11,10:00,15,15,219,Cancelada
+326,Tratamiento de sarna,2023-07-07,10:00,45,190,227,Cancelada
+327,Limpieza dental,2023-07-08,15:00,45,80,2,Cancelada
+328,Corte de pelo,2023-07-19,12:00,60,50,12,Completada
+329,Baño para perros,2023-07-28,10:00,30,30,18,Completada
+330,Corte de pelo,2023-07-27,10:00,60,50,97,Completada
+331,Corte de pelo,2023-07-25,13:00,60,50,72,Cancelada
+332,Spa,2023-07-21,14:00,60,230,170,Cancelada
+333,Spa,2023-07-01,12:00,60,230,76,Cancelada
+334,Limpieza dental,2023-07-07,13:00,45,80,167,Completada
+335,Tratamiento de sarna,2023-07-23,12:00,45,190,97,Completada
+336,Tratamiento de sarna,2023-07-02,11:00,45,190,73,Completada
+337,Limpieza dental,2023-07-13,13:00,45,80,79,Completada
+338,Limpieza dental,2023-07-15,11:00,45,80,221,Cancelada
+339,Tratamiento de sarna,2023-07-14,09:00,45,190,15,Cancelada
+340,Corte de uñas,2023-07-12,11:00,15,15,94,Completada
+341,Corte de pelo,2023-07-27,11:00,60,50,5,Completada
+342,Corte de pelo,2023-07-11,10:00,60,50,68,Cancelada
+343,Limpieza dental,2023-07-21,14:00,45,80,199,Cancelada
+344,Spa,2023-07-06,13:00,60,230,100,Completada
+345,Limpieza dental,2023-07-17,13:00,45,80,151,Completada
+346,Baño para perros,2023-07-16,15:00,30,30,225,Completada
+347,Baño para perros,2023-07-04,11:00,30,30,9,Completada
+348,Corte de uñas,2023-07-25,10:00,15,15,118,Cancelada
+349,Tratamiento de sarna,2023-07-20,15:00,45,190,63,Cancelada
+350,Limpieza dental,2023-07-04,10:00,45,80,149,Cancelada
+351,Tratamiento de sarna,2023-07-19,14:00,45,190,122,Completada
+352,Corte de uñas,2023-07-06,10:00,15,15,109,Cancelada
+353,Corte de uñas,2023-07-26,14:00,15,15,154,Completada
+354,Spa,2023-07-20,09:00,60,230,199,Cancelada
+355,Limpieza dental,2023-07-22,11:00,45,80,46,Cancelada
+356,Tratamiento de sarna,2023-07-05,12:00,45,190,133,Cancelada
+357,Corte de uñas,2023-07-14,11:00,15,15,101,Completada
+358,Limpieza dental,2023-07-12,14:00,45,80,107,Completada
+359,Corte de pelo,2023-07-04,11:00,60,50,118,Cancelada
+360,Corte de pelo,2023-07-10,11:00,60,50,157,Completada
+361,Tratamiento de sarna,2023-07-14,13:00,45,190,52,Cancelada
+362,Spa,2023-07-22,09:00,60,230,177,Cancelada
+363,Corte de uñas,2023-07-23,12:00,15,15,171,Cancelada
+364,Spa,2023-07-11,15:00,60,230,166,Completada
+365,Corte de uñas,2023-07-29,10:00,15,15,178,Cancelada
+366,Baño para perros,2023-07-04,15:00,30,30,8,Cancelada
+367,Spa,2023-07-15,11:00,60,230,11,Completada
+368,Corte de pelo,2023-07-14,09:00,60,50,139,Cancelada
+369,Corte de pelo,2023-07-29,13:00,60,50,34,Cancelada
+370,Tratamiento de sarna,2023-07-02,12:00,45,190,12,Cancelada
+371,Corte de uñas,2023-07-08,09:00,15,15,39,Completada
+372,Limpieza dental,2023-07-05,15:00,45,80,63,Completada
+373,Spa,2023-07-22,15:00,60,230,96,Cancelada
+374,Tratamiento de sarna,2023-07-17,16:00,45,190,158,Completada
+375,Limpieza dental,2023-07-08,12:00,45,80,227,Cancelada
+376,Limpieza dental,2023-07-10,16:00,45,80,156,Cancelada
+377,Corte de uñas,2023-07-18,15:00,15,15,106,Cancelada
+378,Limpieza dental,2023-07-14,15:00,45,80,165,Completada
+379,Baño para perros,2023-07-18,16:00,30,30,157,Completada
+380,Limpieza dental,2023-07-25,13:00,45,80,124,Cancelada
+381,Tratamiento de sarna,2023-07-06,11:00,45,190,204,Completada
+382,Baño para perros,2023-07-04,12:00,30,30,82,Completada
+383,Limpieza dental,2023-07-01,16:00,45,80,48,Cancelada
+384,Corte de uñas,2023-07-07,15:00,15,15,169,Cancelada
+385,Corte de uñas,2023-07-28,09:00,15,15,223,Cancelada
+386,Baño para perros,2023-07-11,12:00,30,30,18,Completada
+387,Corte de uñas,2023-07-17,13:00,15,15,105,Cancelada
+388,Tratamiento de sarna,2023-07-18,15:00,45,190,9,Cancelada
+389,Spa,2023-07-15,12:00,60,230,38,Cancelada
+390,Corte de uñas,2023-07-24,10:00,15,15,193,Completada
+391,Corte de uñas,2023-07-12,15:00,15,15,8,Completada
+392,Tratamiento de sarna,2023-07-12,15:00,45,190,133,Completada
+393,Corte de uñas,2023-07-15,11:00,15,15,7,Completada
+394,Spa,2023-07-03,16:00,60,230,97,Cancelada
+395,Corte de uñas,2023-07-09,09:00,15,15,42,Completada
+396,Spa,2023-07-03,16:00,60,230,10,Completada
+397,Tratamiento de sarna,2023-07-26,10:00,45,190,87,Cancelada
+398,Corte de pelo,2023-07-03,11:00,60,50,118,Cancelada
+399,Corte de pelo,2023-07-15,13:00,60,50,106,Completada
+400,Corte de uñas,2023-07-21,14:00,15,15,54,Cancelada
+401,Corte de pelo,2023-07-08,15:00,60,50,82,Cancelada
+402,Corte de uñas,2023-07-12,13:00,15,15,74,Cancelada
+403,Corte de pelo,2023-07-23,12:00,60,50,202,Cancelada
+404,Baño para perros,2023-07-09,15:00,30,30,133,Completada
+405,Corte de pelo,2023-07-21,10:00,60,50,143,Completada
+406,Baño para perros,2023-07-12,09:00,30,30,47,Completada
+407,Corte de uñas,2023-07-13,14:00,15,15,43,Completada
+408,Corte de pelo,2023-07-02,11:00,60,50,110,Completada
+409,Corte de uñas,2023-07-06,13:00,15,15,220,Cancelada
+410,Tratamiento de sarna,2023-07-08,16:00,45,190,41,Completada
+411,Corte de uñas,2023-07-28,15:00,15,15,128,Cancelada
+412,Spa,2023-07-05,14:00,60,230,20,Completada
+413,Baño para perros,2023-07-04,15:00,30,30,225,Cancelada
+414,Corte de pelo,2023-07-21,16:00,60,50,41,Cancelada
+415,Limpieza dental,2023-07-02,09:00,45,80,2,Completada
+416,Spa,2023-07-06,10:00,60,230,66,Cancelada
+417,Baño para perros,2023-07-26,09:00,30,30,208,Cancelada
+418,Tratamiento de sarna,2023-07-17,13:00,45,190,147,Cancelada
+419,Corte de uñas,2023-07-13,14:00,15,15,147,Completada
+420,Corte de pelo,2023-07-22,09:00,60,50,149,Cancelada
+421,Corte de uñas,2023-07-12,16:00,15,15,174,Completada
+422,Tratamiento de sarna,2023-07-27,10:00,45,190,41,Completada
+423,Limpieza dental,2023-07-20,16:00,45,80,73,Completada
+424,Spa,2023-07-07,15:00,60,230,4,Completada
+425,Tratamiento de sarna,2023-07-29,15:00,45,190,90,Completada
+426,Limpieza dental,2023-07-16,10:00,45,80,94,Cancelada
+427,Spa,2023-07-29,14:00,60,230,90,Cancelada
+428,Limpieza dental,2023-07-13,10:00,45,80,149,Completada
+429,Limpieza dental,2023-07-15,16:00,45,80,189,Cancelada
+430,Baño para perros,2023-07-24,11:00,30,30,168,Completada
+431,Spa,2023-07-21,09:00,60,230,74,Cancelada
+432,Corte de pelo,2023-07-24,09:00,60,50,18,Cancelada
+433,Corte de uñas,2023-07-05,16:00,15,15,201,Completada
+434,Corte de pelo,2023-07-05,15:00,60,50,194,Cancelada
+435,Limpieza dental,2023-07-05,14:00,45,80,91,Cancelada
+436,Limpieza dental,2023-07-29,13:00,45,80,107,Completada
+437,Spa,2023-07-09,10:00,60,230,81,Completada
+438,Corte de uñas,2023-07-15,11:00,15,15,211,Cancelada
+439,Limpieza dental,2023-07-11,13:00,45,80,57,Cancelada
+440,Tratamiento de sarna,2023-07-10,11:00,45,190,221,Completada
+441,Limpieza dental,2023-07-19,12:00,45,80,182,Completada
+442,Baño para perros,2023-07-21,11:00,30,30,20,Completada
+443,Corte de pelo,2023-07-24,09:00,60,50,14,Cancelada
+444,Corte de pelo,2023-07-08,09:00,60,50,30,Completada
+445,Spa,2023-07-26,09:00,60,230,227,Cancelada
+446,Corte de uñas,2023-07-21,14:00,15,15,35,Completada
+447,Spa,2023-07-11,09:00,60,230,37,Completada
+448,Tratamiento de sarna,2023-07-25,11:00,45,190,47,Cancelada
+449,Tratamiento de sarna,2023-07-09,09:00,45,190,49,Completada
+450,Corte de pelo,2023-07-14,14:00,60,50,208,Completada
+451,Corte de uñas,2023-07-22,11:00,15,15,143,Cancelada
+452,Tratamiento de sarna,2023-07-19,16:00,45,190,102,Cancelada
+453,Corte de pelo,2023-07-21,15:00,60,50,57,Cancelada
+454,Spa,2023-07-18,12:00,60,230,63,Completada
+455,Corte de uñas,2023-07-26,14:00,15,15,213,Completada
+456,Limpieza dental,2023-07-25,10:00,45,80,196,Completada
+457,Corte de pelo,2023-07-01,11:00,60,50,141,Cancelada
+458,Corte de pelo,2023-07-10,15:00,60,50,146,Cancelada
+459,Limpieza dental,2023-07-22,16:00,45,80,18,Completada
+460,Corte de pelo,2023-07-16,12:00,60,50,222,Completada
+461,Corte de pelo,2023-07-02,12:00,60,50,87,Cancelada
+462,Corte de uñas,2023-07-16,10:00,15,15,5,Cancelada
+463,Spa,2023-07-18,15:00,60,230,106,Completada
+464,Corte de pelo,2023-07-06,10:00,60,50,162,Cancelada
+465,Corte de uñas,2023-07-24,13:00,15,15,28,Completada
+466,Corte de uñas,2023-07-13,11:00,15,15,60,Cancelada
+467,Corte de uñas,2023-07-04,11:00,15,15,99,Cancelada
+468,Baño para perros,2023-07-10,12:00,30,30,48,Completada
+469,Corte de pelo,2023-07-22,13:00,60,50,64,Cancelada
+470,Tratamiento de sarna,2023-07-14,09:00,45,190,41,Cancelada
+471,Spa,2023-07-25,09:00,60,230,113,Cancelada
+472,Baño para perros,2023-07-03,10:00,30,30,47,Cancelada
+473,Spa,2023-07-23,09:00,60,230,3,Completada
+474,Tratamiento de sarna,2023-07-23,16:00,45,190,44,Completada
+475,Corte de pelo,2023-07-24,14:00,60,50,104,Completada
+476,Spa,2023-07-03,15:00,60,230,215,Cancelada
+477,Corte de uñas,2023-07-01,09:00,15,15,16,Completada
+478,Corte de pelo,2023-07-23,10:00,60,50,221,Cancelada
+479,Tratamiento de sarna,2023-07-12,16:00,45,190,97,Completada
+480,Baño para perros,2023-07-03,10:00,30,30,114,Cancelada
+481,Corte de uñas,2023-07-16,12:00,15,15,137,Cancelada
+482,Corte de pelo,2023-07-18,10:00,60,50,56,Completada
+483,Tratamiento de sarna,2023-07-20,15:00,45,190,73,Cancelada
+484,Corte de pelo,2023-07-01,15:00,60,50,144,Cancelada
+485,Limpieza dental,2023-07-17,16:00,45,80,115,Completada
+486,Tratamiento de sarna,2023-07-18,11:00,45,190,106,Completada
+487,Corte de pelo,2023-07-21,13:00,60,50,57,Cancelada
+488,Tratamiento de sarna,2023-07-24,12:00,45,190,5,Cancelada
+489,Spa,2023-07-01,14:00,60,230,86,Completada
+490,Limpieza dental,2023-07-19,15:00,45,80,112,Completada
+491,Spa,2023-07-03,10:00,60,230,129,Completada
+492,Corte de pelo,2023-07-08,11:00,60,50,192,Cancelada
+493,Limpieza dental,2023-07-02,13:00,45,80,129,Completada
+494,Corte de pelo,2023-07-18,12:00,60,50,126,Cancelada
+495,Corte de pelo,2023-07-26,12:00,60,50,192,Completada
+496,Limpieza dental,2023-07-19,14:00,45,80,66,Cancelada
+497,Spa,2023-07-27,16:00,60,230,73,Cancelada
+498,Spa,2023-07-25,15:00,60,230,36,Completada
+499,Baño para perros,2023-07-10,16:00,30,30,174,Cancelada
+500,Spa,2023-07-22,12:00,60,230,31,Completada
+501,Spa,2023-07-04,12:00,60,230,164,Completada
+502,Limpieza dental,2023-07-15,09:00,45,80,222,Completada
+503,Limpieza dental,2023-07-14,12:00,45,80,142,Completada
+504,Corte de uñas,2023-07-25,10:00,15,15,42,Completada
+505,Baño para perros,2023-07-06,10:00,30,30,110,Cancelada
+506,Baño para perros,2023-07-18,14:00,30,30,21,Cancelada
+507,Spa,2023-07-27,14:00,60,230,33,Cancelada
+508,Spa,2023-07-04,12:00,60,230,89,Cancelada
+509,Spa,2023-07-14,11:00,60,230,101,Completada
+510,Corte de pelo,2023-07-12,11:00,60,50,7,Cancelada
+511,Limpieza dental,2023-07-18,16:00,45,80,73,Cancelada
+512,Corte de pelo,2023-07-01,13:00,60,50,206,Completada
+513,Limpieza dental,2023-07-21,12:00,45,80,63,Completada
+514,Tratamiento de sarna,2023-07-27,16:00,45,190,10,Completada
+515,Corte de pelo,2023-07-23,15:00,60,50,102,Cancelada
+516,Limpieza dental,2023-07-04,16:00,45,80,65,Cancelada
+517,Tratamiento de sarna,2023-07-16,14:00,45,190,44,Completada
+518,Spa,2023-07-12,09:00,60,230,134,Completada
+519,Tratamiento de sarna,2023-07-14,09:00,45,190,115,Cancelada
+520,Corte de pelo,2023-07-16,16:00,60,50,188,Completada
+521,Tratamiento de sarna,2023-07-18,13:00,45,190,166,Completada
+522,Baño para perros,2023-07-20,16:00,30,30,113,Completada
+523,Corte de pelo,2023-07-18,13:00,60,50,196,Completada
+524,Tratamiento de sarna,2023-07-06,12:00,45,190,173,Completada
+525,Baño para perros,2023-07-27,09:00,30,30,81,Completada
+526,Tratamiento de sarna,2023-07-12,09:00,45,190,205,Completada
+527,Corte de uñas,2023-07-02,12:00,15,15,186,Cancelada
+528,Tratamiento de sarna,2023-07-22,10:00,45,190,126,Cancelada
+529,Corte de uñas,2023-07-22,10:00,15,15,156,Completada
+530,Spa,2023-07-02,14:00,60,230,205,Cancelada
+531,Spa,2023-07-28,14:00,60,230,100,Cancelada
+532,Tratamiento de sarna,2023-07-03,14:00,45,190,202,Cancelada
+533,Spa,2023-07-19,12:00,60,230,24,Completada
+534,Tratamiento de sarna,2023-07-04,13:00,45,190,87,Cancelada
+535,Limpieza dental,2023-07-10,13:00,45,80,201,Completada
+536,Tratamiento de sarna,2023-07-12,14:00,45,190,168,Cancelada
+537,Baño para perros,2023-07-29,14:00,30,30,69,Cancelada
+538,Limpieza dental,2023-07-11,12:00,45,80,185,Completada
+539,Corte de uñas,2023-07-27,14:00,15,15,140,Completada
+540,Corte de pelo,2023-07-13,13:00,60,50,66,Cancelada
+541,Corte de pelo,2023-07-23,12:00,60,50,46,Completada
+542,Spa,2023-07-21,13:00,60,230,145,Cancelada
+543,Corte de uñas,2023-07-10,09:00,15,15,196,Cancelada
+544,Corte de uñas,2023-07-24,11:00,15,15,115,Cancelada
+545,Baño para perros,2023-07-25,13:00,30,30,47,Cancelada
+546,Limpieza dental,2023-07-20,11:00,45,80,52,Cancelada
+547,Corte de uñas,2023-07-18,15:00,15,15,157,Cancelada
+548,Tratamiento de sarna,2023-07-13,11:00,45,190,148,Cancelada
+549,Corte de uñas,2023-07-13,12:00,15,15,167,Cancelada
+550,Baño para perros,2023-07-24,14:00,30,30,2,Completada
+551,Corte de uñas,2023-07-21,16:00,15,15,112,Completada
+552,Corte de uñas,2023-07-04,14:00,15,15,117,Completada
+553,Limpieza dental,2023-07-09,14:00,45,80,138,Cancelada
+554,Limpieza dental,2023-07-23,12:00,45,80,113,Completada
+555,Limpieza dental,2023-07-04,10:00,45,80,178,Completada
+556,Corte de uñas,2023-07-16,10:00,15,15,33,Completada
+557,Baño para perros,2023-07-15,14:00,30,30,209,Completada
+558,Baño para perros,2023-07-04,12:00,30,30,123,Completada
+559,Limpieza dental,2023-07-05,16:00,45,80,149,Completada
+560,Corte de pelo,2023-07-19,13:00,60,50,14,Cancelada
+561,Baño para perros,2023-07-05,13:00,30,30,119,Completada
+562,Limpieza dental,2023-07-06,14:00,45,80,190,Completada
+563,Limpieza dental,2023-07-04,09:00,45,80,5,Cancelada
+564,Spa,2023-07-12,13:00,60,230,30,Cancelada
+565,Limpieza dental,2023-07-05,16:00,45,80,75,Cancelada
+566,Spa,2023-07-02,16:00,60,230,99,Completada
+567,Limpieza dental,2023-07-18,11:00,45,80,48,Completada
+568,Limpieza dental,2023-07-23,12:00,45,80,43,Cancelada
+569,Limpieza dental,2023-07-25,12:00,45,80,147,Completada
+570,Spa,2023-07-25,10:00,60,230,66,Cancelada
+571,Corte de uñas,2023-07-12,16:00,15,15,177,Completada
+572,Limpieza dental,2023-07-21,10:00,45,80,119,Cancelada
+573,Limpieza dental,2023-07-26,09:00,45,80,219,Cancelada
+574,Tratamiento de sarna,2023-07-22,09:00,45,190,194,Cancelada
+575,Limpieza dental,2023-07-04,15:00,45,80,149,Cancelada
+576,Corte de pelo,2023-07-06,15:00,60,50,137,Completada
+577,Corte de uñas,2023-07-01,11:00,15,15,188,Cancelada
+578,Corte de uñas,2023-07-29,14:00,15,15,55,Completada
+579,Corte de uñas,2023-07-15,14:00,15,15,25,Completada
+580,Corte de pelo,2023-07-20,14:00,60,50,113,Cancelada
+581,Spa,2023-07-07,14:00,60,230,186,Cancelada
+582,Spa,2023-07-28,12:00,60,230,135,Cancelada
+583,Tratamiento de sarna,2023-07-26,12:00,45,190,90,Cancelada
+584,Limpieza dental,2023-07-19,15:00,45,80,39,Cancelada
+585,Corte de uñas,2023-07-10,13:00,15,15,164,Cancelada
+586,Spa,2023-07-28,09:00,60,230,92,Completada
+587,Spa,2023-07-20,13:00,60,230,9,Cancelada
+588,Corte de pelo,2023-07-24,16:00,60,50,212,Cancelada
+589,Limpieza dental,2023-07-05,13:00,45,80,224,Completada
+590,Limpieza dental,2023-07-28,16:00,45,80,49,Completada
+591,Baño para perros,2023-07-18,15:00,30,30,20,Completada
+592,Tratamiento de sarna,2023-07-23,12:00,45,190,168,Cancelada
+593,Limpieza dental,2023-07-15,15:00,45,80,161,Completada
+594,Corte de pelo,2023-07-17,09:00,60,50,145,Completada
+595,Corte de pelo,2023-07-11,13:00,60,50,173,Cancelada
+596,Spa,2023-07-16,15:00,60,230,151,Completada
+597,Limpieza dental,2023-07-09,11:00,45,80,43,Completada
+598,Corte de uñas,2023-07-04,09:00,15,15,76,Completada
+599,Baño para perros,2023-07-10,09:00,30,30,157,Cancelada
+600,Tratamiento de sarna,2023-07-15,15:00,45,190,141,Completada
+601,Limpieza dental,2023-07-14,12:00,45,80,105,Completada
+602,Spa,2023-07-14,09:00,60,230,40,Cancelada
+603,Corte de uñas,2023-07-19,11:00,15,15,166,Cancelada
+604,Corte de pelo,2023-07-26,09:00,60,50,66,Cancelada
+605,Corte de pelo,2023-07-15,11:00,60,50,178,Completada
+606,Corte de uñas,2023-07-17,14:00,15,15,197,Completada
+607,Limpieza dental,2023-07-26,09:00,45,80,210,Completada
+608,Baño para perros,2023-07-12,13:00,30,30,2,Cancelada
+609,Corte de uñas,2023-07-25,13:00,15,15,5,Cancelada
+610,Corte de uñas,2023-07-20,13:00,15,15,14,Cancelada
+611,Baño para perros,2023-07-02,13:00,30,30,168,Completada
+612,Corte de uñas,2023-07-27,12:00,15,15,12,Completada
+613,Spa,2023-07-18,09:00,60,230,178,Completada
+614,Limpieza dental,2023-07-08,15:00,45,80,53,Cancelada
+615,Corte de uñas,2023-07-01,14:00,15,15,178,Cancelada
+616,Corte de pelo,2023-07-29,10:00,60,50,70,Cancelada
+617,Spa,2023-07-24,16:00,60,230,197,Completada
+618,Limpieza dental,2023-07-23,14:00,45,80,187,Cancelada
+619,Spa,2023-07-28,11:00,60,230,121,Cancelada
+620,Spa,2023-07-11,10:00,60,230,130,Cancelada
+621,Baño para perros,2023-07-26,14:00,30,30,42,Cancelada
+622,Spa,2023-07-01,16:00,60,230,19,Cancelada
+623,Baño para perros,2023-07-07,14:00,30,30,118,Completada
+624,Spa,2023-07-27,14:00,60,230,26,Completada
+625,Corte de uñas,2023-07-24,12:00,15,15,54,Completada
+626,Spa,2023-07-03,10:00,60,230,191,Cancelada
+627,Corte de pelo,2023-07-25,11:00,60,50,84,Completada
+628,Corte de pelo,2023-07-02,09:00,60,50,117,Completada
+629,Tratamiento de sarna,2023-07-11,11:00,45,190,43,Cancelada
+630,Corte de uñas,2023-07-18,11:00,15,15,68,Cancelada
+631,Corte de pelo,2023-07-15,12:00,60,50,213,Completada
+632,Limpieza dental,2023-07-22,09:00,45,80,33,Cancelada
+633,Limpieza dental,2023-07-20,12:00,45,80,59,Cancelada
+634,Corte de uñas,2023-07-15,14:00,15,15,65,Cancelada
+635,Corte de uñas,2023-07-10,11:00,15,15,223,Completada
+636,Baño para perros,2023-07-22,16:00,30,30,1,Cancelada
+637,Corte de pelo,2023-07-17,14:00,60,50,123,Completada
+638,Spa,2023-07-26,13:00,60,230,10,Cancelada
+639,Limpieza dental,2023-07-04,13:00,45,80,107,Completada
+640,Corte de uñas,2023-07-03,11:00,15,15,220,Completada
+641,Corte de uñas,2023-07-20,10:00,15,15,63,Completada
+642,Corte de pelo,2023-07-18,10:00,60,50,177,Completada
+643,Baño para perros,2023-07-17,11:00,30,30,111,Completada
+644,Limpieza dental,2023-07-29,13:00,45,80,10,Completada
+645,Limpieza dental,2023-07-19,15:00,45,80,181,Cancelada
+646,Baño para perros,2023-07-14,09:00,30,30,204,Cancelada
+647,Limpieza dental,2023-07-17,15:00,45,80,156,Completada
+648,Limpieza dental,2023-07-17,10:00,45,80,122,Cancelada
+649,Corte de uñas,2023-07-17,11:00,15,15,145,Completada
+650,Corte de pelo,2023-07-26,16:00,60,50,185,Cancelada
+651,Corte de pelo,2023-07-01,15:00,60,50,164,Cancelada
+652,Limpieza dental,2023-07-18,10:00,45,80,28,Completada
+653,Spa,2023-07-09,14:00,60,230,219,Cancelada
+654,Corte de pelo,2023-07-11,09:00,60,50,132,Completada
+655,Tratamiento de sarna,2023-07-29,15:00,45,190,99,Completada
+656,Corte de pelo,2023-07-12,10:00,60,50,3,Cancelada
+657,Spa,2023-07-22,13:00,60,230,175,Completada
+658,Limpieza dental,2023-07-16,15:00,45,80,34,Cancelada
+659,Tratamiento de sarna,2023-07-03,10:00,45,190,45,Cancelada
+660,Baño para perros,2023-07-18,13:00,30,30,191,Cancelada
+661,Tratamiento de sarna,2023-07-22,14:00,45,190,19,Completada
+662,Spa,2023-07-17,16:00,60,230,122,Cancelada
+663,Spa,2023-07-23,10:00,60,230,206,Completada
+664,Spa,2023-07-01,10:00,60,230,18,Cancelada
+665,Corte de uñas,2023-07-06,15:00,15,15,16,Completada
+666,Corte de pelo,2023-07-15,14:00,60,50,149,Cancelada
+667,Corte de pelo,2023-07-25,13:00,60,50,96,Completada
+668,Limpieza dental,2023-07-17,11:00,45,80,109,Completada
+669,Limpieza dental,2023-07-11,15:00,45,80,16,Completada
+670,Limpieza dental,2023-07-13,10:00,45,80,188,Completada
+671,Spa,2023-07-19,12:00,60,230,74,Completada
+672,Limpieza dental,2023-07-05,13:00,45,80,185,Completada
+673,Spa,2023-07-16,12:00,60,230,133,Completada
+674,Corte de uñas,2023-07-05,09:00,15,15,39,Completada
+675,Spa,2023-07-05,16:00,60,230,209,Cancelada
+676,Corte de pelo,2023-07-21,12:00,60,50,176,Completada
+677,Baño para perros,2023-07-14,14:00,30,30,181,Cancelada
+678,Corte de uñas,2023-07-03,10:00,15,15,155,Cancelada
+679,Limpieza dental,2023-07-03,14:00,45,80,13,Cancelada
+680,Limpieza dental,2023-07-14,12:00,45,80,169,Cancelada
+681,Tratamiento de sarna,2023-07-01,10:00,45,190,176,Cancelada
+682,Corte de pelo,2023-07-07,09:00,60,50,165,Completada
+683,Limpieza dental,2023-07-27,10:00,45,80,174,Completada
+684,Tratamiento de sarna,2023-07-10,15:00,45,190,16,Cancelada
+685,Baño para perros,2023-07-03,15:00,30,30,156,Completada
+686,Limpieza dental,2023-07-17,12:00,45,80,162,Cancelada
+687,Spa,2023-07-01,16:00,60,230,55,Cancelada
+688,Corte de uñas,2023-07-23,15:00,15,15,154,Completada
+689,Tratamiento de sarna,2023-07-18,13:00,45,190,62,Completada
+690,Tratamiento de sarna,2023-07-19,13:00,45,190,90,Cancelada
+691,Limpieza dental,2023-07-06,11:00,45,80,158,Completada
+692,Corte de uñas,2023-07-04,09:00,15,15,205,Cancelada
+693,Tratamiento de sarna,2023-07-18,11:00,45,190,139,Cancelada
+694,Tratamiento de sarna,2023-07-21,14:00,45,190,150,Completada
+695,Spa,2023-07-12,10:00,60,230,129,Cancelada
+696,Spa,2023-07-27,14:00,60,230,23,Completada
+697,Corte de uñas,2023-07-21,14:00,15,15,85,Cancelada
+698,Tratamiento de sarna,2023-07-01,12:00,45,190,195,Cancelada
+699,Corte de uñas,2023-07-19,12:00,15,15,41,Cancelada
+700,Spa,2023-07-14,13:00,60,230,208,Completada
+701,Corte de pelo,2023-07-03,13:00,60,50,137,Completada
+702,Limpieza dental,2023-07-26,09:00,45,80,13,Completada
+703,Limpieza dental,2023-07-03,11:00,45,80,147,Cancelada
+704,Corte de pelo,2023-07-13,15:00,60,50,28,Cancelada
+705,Spa,2023-07-18,13:00,60,230,187,Completada
+706,Corte de uñas,2023-07-22,11:00,15,15,207,Cancelada
+707,Tratamiento de sarna,2023-07-06,14:00,45,190,116,Cancelada
+708,Tratamiento de sarna,2023-07-10,10:00,45,190,22,Completada
+709,Limpieza dental,2023-07-03,09:00,45,80,17,Cancelada
+710,Spa,2023-07-01,15:00,60,230,222,Completada
+711,Tratamiento de sarna,2023-07-13,11:00,45,190,103,Cancelada
+712,Corte de pelo,2023-07-23,09:00,60,50,175,Completada
+713,Corte de pelo,2023-07-03,15:00,60,50,56,Cancelada
+714,Corte de pelo,2023-07-16,13:00,60,50,145,Cancelada
+715,Corte de pelo,2023-07-29,09:00,60,50,93,Completada
+716,Tratamiento de sarna,2023-07-21,10:00,45,190,34,Cancelada
+717,Limpieza dental,2023-07-13,16:00,45,80,150,Completada
+718,Baño para perros,2023-07-03,12:00,30,30,127,Cancelada
+719,Spa,2023-07-23,12:00,60,230,10,Cancelada
+720,Limpieza dental,2023-07-08,15:00,45,80,214,Completada
+721,Corte de uñas,2023-07-13,14:00,15,15,164,Completada
+722,Limpieza dental,2023-07-27,12:00,45,80,156,Completada
+723,Baño para perros,2023-07-17,10:00,30,30,226,Completada
+724,Limpieza dental,2023-07-01,10:00,45,80,26,Cancelada
+725,Corte de pelo,2023-07-10,12:00,60,50,90,Cancelada
+726,Baño para perros,2023-07-13,11:00,30,30,30,Completada
+727,Corte de pelo,2023-07-13,14:00,60,50,143,Completada
+728,Baño para perros,2023-07-17,15:00,30,30,112,Cancelada
+729,Tratamiento de sarna,2023-07-11,16:00,45,190,2,Cancelada
+730,Corte de pelo,2023-07-06,16:00,60,50,168,Completada
+731,Limpieza dental,2023-07-15,15:00,45,80,117,Completada
+732,Tratamiento de sarna,2023-07-16,11:00,45,190,32,Completada
+733,Corte de pelo,2023-07-20,10:00,60,50,103,Cancelada
+734,Corte de uñas,2023-07-08,12:00,15,15,190,Cancelada
+735,Spa,2023-07-04,10:00,60,230,59,Cancelada
+736,Tratamiento de sarna,2023-07-28,12:00,45,190,104,Completada
+737,Baño para perros,2023-07-19,14:00,30,30,56,Cancelada
+738,Tratamiento de sarna,2023-07-06,09:00,45,190,202,Completada
+739,Corte de uñas,2023-07-05,11:00,15,15,193,Cancelada
+740,Corte de uñas,2023-07-26,15:00,15,15,30,Completada
+741,Corte de pelo,2023-07-25,16:00,60,50,68,Completada
+742,Limpieza dental,2023-07-29,15:00,45,80,112,Completada
+743,Baño para perros,2023-07-07,09:00,30,30,165,Cancelada
+744,Spa,2023-07-17,15:00,60,230,144,Completada
+745,Baño para perros,2023-07-11,09:00,30,30,169,Cancelada
+746,Baño para perros,2023-07-11,11:00,30,30,89,Completada
+747,Tratamiento de sarna,2023-07-18,12:00,45,190,170,Cancelada
+748,Corte de pelo,2023-07-29,12:00,60,50,156,Cancelada
+749,Spa,2023-07-08,09:00,60,230,213,Completada
+750,Tratamiento de sarna,2023-07-04,16:00,45,190,218,Completada
+751,Corte de pelo,2023-07-07,10:00,60,50,227,Completada
+752,Spa,2023-07-14,11:00,60,230,150,Completada
+753,Spa,2023-07-28,16:00,60,230,138,Completada
+754,Baño para perros,2023-07-21,13:00,30,30,223,Cancelada
+755,Limpieza dental,2023-07-23,15:00,45,80,161,Cancelada
+756,Corte de uñas,2023-07-28,09:00,15,15,47,Completada
+757,Corte de pelo,2023-07-14,15:00,60,50,139,Cancelada
+758,Spa,2023-07-17,14:00,60,230,70,Cancelada
+759,Corte de pelo,2023-07-18,16:00,60,50,177,Cancelada
+760,Tratamiento de sarna,2023-07-14,10:00,45,190,114,Completada
+761,Limpieza dental,2023-07-21,12:00,45,80,194,Cancelada
+762,Corte de uñas,2023-07-09,11:00,15,15,109,Completada
+763,Spa,2023-07-17,16:00,60,230,117,Completada
+764,Corte de uñas,2023-07-06,09:00,15,15,216,Completada
+765,Baño para perros,2023-07-13,14:00,30,30,66,Cancelada
+766,Spa,2023-07-10,13:00,60,230,50,Cancelada
+767,Corte de pelo,2023-07-03,11:00,60,50,57,Cancelada
+768,Spa,2023-07-01,16:00,60,230,70,Cancelada
+769,Limpieza dental,2023-07-25,13:00,45,80,161,Cancelada
+770,Limpieza dental,2023-07-04,14:00,45,80,178,Cancelada
+771,Limpieza dental,2023-07-01,13:00,45,80,120,Completada
+772,Corte de pelo,2023-07-20,15:00,60,50,79,Cancelada
+773,Corte de pelo,2023-07-09,11:00,60,50,30,Completada
+774,Spa,2023-07-05,15:00,60,230,137,Cancelada
+775,Tratamiento de sarna,2023-07-05,12:00,45,190,165,Cancelada
+776,Corte de uñas,2023-07-06,10:00,15,15,88,Completada
+777,Limpieza dental,2023-07-17,16:00,45,80,165,Cancelada
+778,Corte de pelo,2023-07-08,16:00,60,50,101,Cancelada
+779,Baño para perros,2023-07-04,09:00,30,30,224,Cancelada
+780,Limpieza dental,2023-07-22,15:00,45,80,39,Cancelada
+781,Corte de pelo,2023-07-08,13:00,60,50,169,Completada
+782,Corte de pelo,2023-07-11,13:00,60,50,124,Cancelada
+783,Corte de uñas,2023-07-19,11:00,15,15,42,Completada
+784,Baño para perros,2023-07-09,12:00,30,30,171,Completada
+785,Corte de pelo,2023-07-14,09:00,60,50,175,Cancelada
+786,Spa,2023-07-08,11:00,60,230,162,Completada
+787,Corte de uñas,2023-07-09,16:00,15,15,143,Completada
+788,Spa,2023-07-15,11:00,60,230,164,Cancelada
+789,Spa,2023-07-22,15:00,60,230,88,Cancelada
+790,Tratamiento de sarna,2023-07-24,15:00,45,190,92,Completada
+791,Tratamiento de sarna,2023-07-07,12:00,45,190,19,Cancelada
+792,Tratamiento de sarna,2023-07-25,14:00,45,190,189,Cancelada
+793,Tratamiento de sarna,2023-07-21,12:00,45,190,100,Cancelada
+794,Tratamiento de sarna,2023-07-19,16:00,45,190,101,Completada
+795,Spa,2023-07-14,16:00,60,230,229,Completada
+796,Spa,2023-07-25,10:00,60,230,81,Completada
+797,Corte de uñas,2023-07-21,16:00,15,15,224,Completada
+798,Limpieza dental,2023-07-26,11:00,45,80,81,Completada
+799,Limpieza dental,2023-07-07,09:00,45,80,79,Cancelada
+800,Baño para perros,2023-07-01,13:00,30,30,158,Completada
+801,Baño para perros,2023-07-08,16:00,30,30,27,Cancelada
+802,Spa,2023-07-07,15:00,60,230,226,Completada
+803,Limpieza dental,2023-07-28,09:00,45,80,212,Cancelada
+804,Tratamiento de sarna,2023-07-27,15:00,45,190,112,Completada
+805,Spa,2023-07-19,09:00,60,230,215,Cancelada
+806,Limpieza dental,2023-07-23,15:00,45,80,226,Completada
+807,Limpieza dental,2023-07-02,09:00,45,80,129,Cancelada
+808,Baño para perros,2023-07-08,14:00,30,30,218,Cancelada
+809,Spa,2023-07-26,10:00,60,230,144,Cancelada
+810,Limpieza dental,2023-07-23,16:00,45,80,4,Completada
+811,Corte de uñas,2023-07-12,10:00,15,15,204,Cancelada
+812,Baño para perros,2023-07-25,14:00,30,30,186,Completada
+813,Corte de pelo,2023-07-26,10:00,60,50,229,Cancelada
+814,Corte de pelo,2023-07-01,14:00,60,50,193,Completada
+815,Baño para perros,2023-07-14,13:00,30,30,65,Cancelada
+816,Baño para perros,2023-07-03,13:00,30,30,167,Completada
+817,Baño para perros,2023-07-06,16:00,30,30,92,Cancelada
+818,Spa,2023-07-06,11:00,60,230,181,Cancelada
+819,Corte de uñas,2023-07-20,16:00,15,15,108,Completada
+820,Corte de uñas,2023-07-25,12:00,15,15,218,Completada
+821,Limpieza dental,2023-07-26,11:00,45,80,215,Cancelada
+822,Limpieza dental,2023-07-12,11:00,45,80,11,Cancelada
+823,Limpieza dental,2023-07-10,10:00,45,80,160,Cancelada
+824,Corte de pelo,2023-07-17,11:00,60,50,151,Completada
+825,Baño para perros,2023-07-05,09:00,30,30,123,Completada
+826,Corte de pelo,2023-07-04,12:00,60,50,15,Cancelada
+827,Limpieza dental,2023-07-03,12:00,45,80,63,Completada
+828,Tratamiento de sarna,2023-07-05,12:00,45,190,222,Cancelada
+829,Corte de pelo,2023-07-15,14:00,60,50,96,Cancelada
+830,Limpieza dental,2023-07-09,14:00,45,80,213,Completada
+831,Corte de pelo,2023-07-18,09:00,60,50,170,Completada
+832,Tratamiento de sarna,2023-07-18,12:00,45,190,11,Completada
+833,Limpieza dental,2023-07-15,15:00,45,80,130,Completada
+834,Corte de pelo,2023-07-26,14:00,60,50,74,Completada
+835,Baño para perros,2023-07-27,16:00,30,30,13,Completada
+836,Spa,2023-07-15,14:00,60,230,95,Cancelada
+837,Tratamiento de sarna,2023-07-03,09:00,45,190,34,Completada
+838,Baño para perros,2023-07-17,16:00,30,30,33,Cancelada
+839,Corte de uñas,2023-07-03,16:00,15,15,116,Completada
+840,Corte de uñas,2023-07-03,15:00,15,15,179,Cancelada
+841,Spa,2023-07-25,12:00,60,230,214,Completada
+842,Corte de pelo,2023-07-29,12:00,60,50,48,Cancelada
+843,Baño para perros,2023-07-27,13:00,30,30,124,Cancelada
+844,Baño para perros,2023-07-01,11:00,30,30,181,Cancelada
+845,Limpieza dental,2023-07-01,09:00,45,80,229,Cancelada
+846,Spa,2023-07-17,14:00,60,230,91,Cancelada
+847,Tratamiento de sarna,2023-07-09,16:00,45,190,185,Completada
+848,Corte de pelo,2023-07-25,09:00,60,50,176,Completada
+849,Tratamiento de sarna,2023-07-02,09:00,45,190,208,Cancelada
+850,Tratamiento de sarna,2023-07-22,10:00,45,190,63,Completada
+851,Baño para perros,2023-07-05,13:00,30,30,105,Cancelada
+852,Corte de pelo,2023-07-23,14:00,60,50,89,Cancelada
+853,Limpieza dental,2023-07-11,11:00,45,80,180,Completada
+854,Spa,2023-07-04,16:00,60,230,229,Completada
+855,Baño para perros,2023-07-11,11:00,30,30,190,Completada
+856,Baño para perros,2023-07-16,13:00,30,30,150,Completada
+857,Corte de pelo,2023-07-29,15:00,60,50,88,Cancelada
+858,Limpieza dental,2023-07-11,16:00,45,80,79,Completada
+859,Tratamiento de sarna,2023-07-16,10:00,45,190,125,Completada
+860,Corte de uñas,2023-07-21,14:00,15,15,169,Cancelada
+861,Tratamiento de sarna,2023-07-06,16:00,45,190,165,Completada
+862,Limpieza dental,2023-07-15,14:00,45,80,72,Cancelada
+863,Tratamiento de sarna,2023-07-03,11:00,45,190,112,Completada
+864,Corte de pelo,2023-07-24,10:00,60,50,74,Cancelada
+865,Limpieza dental,2023-07-19,16:00,45,80,8,Cancelada
+866,Tratamiento de sarna,2023-07-12,09:00,45,190,66,Completada
+867,Baño para perros,2023-07-01,16:00,30,30,140,Cancelada
+868,Corte de uñas,2023-07-29,13:00,15,15,153,Cancelada
+869,Corte de pelo,2023-07-02,10:00,60,50,31,Completada
+870,Corte de uñas,2023-07-11,12:00,15,15,92,Completada
+871,Baño para perros,2023-07-08,10:00,30,30,142,Completada
+872,Corte de uñas,2023-07-23,14:00,15,15,83,Completada
+873,Spa,2023-07-24,10:00,60,230,53,Cancelada
+874,Corte de uñas,2023-07-27,11:00,15,15,128,Cancelada
+875,Spa,2023-07-05,15:00,60,230,78,Completada
+876,Corte de pelo,2023-07-15,16:00,60,50,50,Completada
+877,Spa,2023-07-12,12:00,60,230,173,Completada
+878,Corte de pelo,2023-07-23,16:00,60,50,101,Cancelada
+879,Corte de pelo,2023-07-14,11:00,60,50,27,Completada
+880,Baño para perros,2023-07-23,12:00,30,30,158,Cancelada
+881,Corte de pelo,2023-07-25,15:00,60,50,61,Completada
+882,Corte de pelo,2023-07-20,13:00,60,50,8,Completada
+883,Limpieza dental,2023-07-18,10:00,45,80,195,Cancelada
+884,Limpieza dental,2023-07-10,11:00,45,80,13,Cancelada
+885,Corte de pelo,2023-07-25,16:00,60,50,228,Completada
+886,Corte de uñas,2023-07-04,09:00,15,15,46,Completada
+887,Corte de uñas,2023-07-18,09:00,15,15,156,Cancelada
+888,Limpieza dental,2023-07-02,11:00,45,80,128,Completada
+889,Baño para perros,2023-07-15,15:00,30,30,142,Completada
+890,Tratamiento de sarna,2023-07-08,12:00,45,190,223,Cancelada
+891,Baño para perros,2023-07-26,12:00,30,30,155,Cancelada
+892,Tratamiento de sarna,2023-07-08,12:00,45,190,52,Completada
+893,Corte de uñas,2023-07-05,11:00,15,15,17,Completada
+894,Spa,2023-07-01,16:00,60,230,223,Cancelada
+895,Corte de uñas,2023-07-08,16:00,15,15,21,Completada
+896,Corte de pelo,2023-07-03,13:00,60,50,43,Completada
+897,Spa,2023-07-09,14:00,60,230,52,Completada
+898,Spa,2023-07-11,15:00,60,230,129,Completada
+899,Spa,2023-07-16,14:00,60,230,217,Completada
+900,Corte de pelo,2023-07-14,09:00,60,50,161,Completada
+901,Spa,2023-07-19,10:00,60,230,62,Completada
+902,Spa,2023-07-18,13:00,60,230,95,Cancelada
+903,Corte de pelo,2023-07-14,11:00,60,50,135,Cancelada
+904,Tratamiento de sarna,2023-07-14,14:00,45,190,211,Completada
+905,Spa,2023-07-08,15:00,60,230,143,Completada
+906,Limpieza dental,2023-07-22,15:00,45,80,189,Cancelada
+907,Corte de uñas,2023-07-03,13:00,15,15,141,Completada
+908,Limpieza dental,2023-07-20,09:00,45,80,142,Cancelada
+909,Spa,2023-07-04,10:00,60,230,191,Completada
+910,Corte de pelo,2023-07-21,14:00,60,50,183,Cancelada
+911,Tratamiento de sarna,2023-07-15,11:00,45,190,147,Cancelada
+912,Tratamiento de sarna,2023-07-19,16:00,45,190,146,Completada
+913,Baño para perros,2023-07-21,09:00,30,30,163,Cancelada
+914,Limpieza dental,2023-07-10,13:00,45,80,159,Cancelada
+915,Baño para perros,2023-07-25,11:00,30,30,130,Cancelada
+916,Spa,2023-07-23,15:00,60,230,155,Cancelada
+917,Limpieza dental,2023-07-02,16:00,45,80,36,Cancelada
+918,Spa,2023-07-21,13:00,60,230,41,Completada
+919,Baño para perros,2023-07-15,10:00,30,30,213,Cancelada
+920,Spa,2023-07-24,15:00,60,230,56,Cancelada
+921,Baño para perros,2023-07-26,14:00,30,30,229,Cancelada
+922,Spa,2023-07-26,16:00,60,230,143,Cancelada
+923,Corte de uñas,2023-07-25,12:00,15,15,9,Cancelada
+924,Corte de uñas,2023-07-29,11:00,15,15,30,Completada
+925,Corte de uñas,2023-07-28,10:00,15,15,91,Cancelada
+926,Tratamiento de sarna,2023-07-29,15:00,45,190,213,Cancelada
+927,Limpieza dental,2023-07-15,10:00,45,80,25,Completada
+928,Limpieza dental,2023-07-18,09:00,45,80,174,Cancelada
+929,Corte de uñas,2023-07-05,16:00,15,15,59,Cancelada
+930,Baño para perros,2023-07-22,12:00,30,30,29,Completada
+931,Spa,2023-07-10,14:00,60,230,54,Completada
+932,Corte de uñas,2023-07-25,15:00,15,15,6,Cancelada
+933,Corte de uñas,2023-07-16,14:00,15,15,178,Cancelada
+934,Baño para perros,2023-07-17,14:00,30,30,36,Cancelada
+935,Corte de pelo,2023-07-27,13:00,60,50,30,Cancelada
+936,Spa,2023-07-11,13:00,60,230,150,Completada
+937,Limpieza dental,2023-07-14,14:00,45,80,19,Completada
+938,Corte de uñas,2023-07-25,10:00,15,15,181,Cancelada
+939,Limpieza dental,2023-07-20,12:00,45,80,38,Cancelada
+940,Corte de pelo,2023-07-21,09:00,60,50,179,Completada
+941,Tratamiento de sarna,2023-07-05,10:00,45,190,148,Completada
+942,Spa,2023-07-17,13:00,60,230,33,Completada
+943,Corte de uñas,2023-07-05,09:00,15,15,218,Cancelada
+944,Baño para perros,2023-07-12,15:00,30,30,119,Completada
+945,Corte de pelo,2023-07-18,14:00,60,50,136,Cancelada
+946,Limpieza dental,2023-07-12,16:00,45,80,171,Completada
+947,Corte de pelo,2023-07-25,11:00,60,50,43,Completada
+948,Baño para perros,2023-07-17,12:00,30,30,160,Cancelada
+949,Spa,2023-07-01,13:00,60,230,91,Cancelada
+950,Limpieza dental,2023-07-12,14:00,45,80,27,Cancelada
+951,Corte de pelo,2023-07-02,11:00,60,50,159,Completada
+952,Baño para perros,2023-07-16,10:00,30,30,176,Cancelada
+953,Baño para perros,2023-07-11,14:00,30,30,88,Cancelada
+954,Corte de pelo,2023-07-03,16:00,60,50,1,Cancelada
+955,Limpieza dental,2023-07-02,11:00,45,80,157,Completada
+956,Corte de pelo,2023-07-18,11:00,60,50,88,Completada
+957,Limpieza dental,2023-07-13,15:00,45,80,203,Completada
+958,Corte de pelo,2023-07-02,09:00,60,50,19,Cancelada
+959,Corte de uñas,2023-07-13,16:00,15,15,211,Completada
+960,Spa,2023-07-05,15:00,60,230,92,Completada
+961,Corte de uñas,2023-07-27,14:00,15,15,158,Cancelada
+962,Spa,2023-07-15,14:00,60,230,41,Cancelada
+963,Corte de pelo,2023-07-23,13:00,60,50,24,Completada
+964,Tratamiento de sarna,2023-07-15,15:00,45,190,44,Cancelada
+965,Corte de uñas,2023-07-25,16:00,15,15,160,Completada
+966,Corte de uñas,2023-07-09,11:00,15,15,143,Completada
+967,Corte de pelo,2023-07-04,15:00,60,50,46,Cancelada
+968,Limpieza dental,2023-07-17,11:00,45,80,119,Completada
+969,Corte de uñas,2023-07-16,10:00,15,15,91,Cancelada
+970,Corte de pelo,2023-07-27,15:00,60,50,153,Completada
+971,Tratamiento de sarna,2023-07-19,14:00,45,190,102,Cancelada
+972,Baño para perros,2023-07-26,16:00,30,30,79,Cancelada
+973,Baño para perros,2023-07-14,13:00,30,30,49,Cancelada
+974,Spa,2023-07-04,09:00,60,230,212,Completada
+975,Limpieza dental,2023-07-12,10:00,45,80,203,Cancelada
+976,Baño para perros,2023-07-27,15:00,30,30,41,Completada
+977,Corte de pelo,2023-07-13,09:00,60,50,62,Cancelada
+978,Corte de pelo,2023-07-29,10:00,60,50,2,Cancelada
+979,Corte de uñas,2023-07-09,13:00,15,15,46,Cancelada
+980,Corte de uñas,2023-07-05,12:00,15,15,97,Cancelada
+981,Baño para perros,2023-07-12,14:00,30,30,72,Cancelada
+982,Limpieza dental,2023-07-24,13:00,45,80,199,Cancelada
+983,Corte de pelo,2023-07-24,12:00,60,50,20,Cancelada
+984,Limpieza dental,2023-07-09,14:00,45,80,50,Cancelada
+985,Baño para perros,2023-07-29,15:00,30,30,177,Completada
+986,Baño para perros,2023-07-02,09:00,30,30,182,Completada
+987,Limpieza dental,2023-07-09,12:00,45,80,172,Cancelada
+988,Baño para perros,2023-07-27,16:00,30,30,84,Cancelada
+989,Spa,2023-07-07,13:00,60,230,43,Completada
+990,Spa,2023-07-10,14:00,60,230,167,Cancelada
+991,Spa,2023-07-12,16:00,60,230,219,Completada
+992,Spa,2023-07-29,11:00,60,230,109,Completada
+993,Corte de uñas,2023-07-24,12:00,15,15,88,Cancelada
+994,Tratamiento de sarna,2023-07-29,15:00,45,190,11,Cancelada
+995,Limpieza dental,2023-07-13,15:00,45,80,21,Completada
+996,Baño para perros,2023-07-26,10:00,30,30,54,Completada
+997,Baño para perros,2023-07-06,13:00,30,30,182,Completada
+998,Baño para perros,2023-07-26,16:00,30,30,168,Cancelada
+999,Spa,2023-07-09,12:00,60,230,139,Completada
+1000,Tratamiento de sarna,2023-07-19,09:00,45,190,74,Cancelada
+1001,Corte de uñas,2023-07-25,09:00,15,15,15,Cancelada
+1002,Baño para perros,2023-07-05,09:00,30,30,218,Cancelada
+1003,Corte de uñas,2023-07-11,10:00,15,15,32,Completada
+1004,Corte de pelo,2023-07-06,14:00,60,50,111,Cancelada
+1005,Corte de uñas,2023-07-02,16:00,15,15,206,Completada
+1006,Tratamiento de sarna,2023-07-10,15:00,45,190,113,Completada
+1007,Limpieza dental,2023-07-14,15:00,45,80,160,Cancelada
+1008,Limpieza dental,2023-07-25,11:00,45,80,32,Cancelada
+1009,Limpieza dental,2023-07-25,10:00,45,80,22,Cancelada
+1010,Baño para perros,2023-07-20,13:00,30,30,194,Completada
